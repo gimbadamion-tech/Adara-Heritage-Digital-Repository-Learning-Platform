@@ -1,0 +1,8 @@
+{
+  "name": "Adara Heritage Portal",
+  "description": "A real-time repository to preserve the values, norms, heritage, culture, and traditions of the Adara people.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
